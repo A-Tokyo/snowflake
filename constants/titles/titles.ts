@@ -95,7 +95,7 @@ export const jobs: Job[] = [
     level: 6,
     family: JobFamily.SME,
     minPoints: levelsToPoints["6.1"],
-    maxPoints: levelsToPoints["7.3"],
+    maxPoints: levelsToPoints["7.1"],
   },
   {
     label: "Distinguished Engineer",
@@ -109,6 +109,6 @@ export const jobs: Job[] = [
     level: 7,
     family: JobFamily.SME,
     minPoints: levelsToPoints["7.1"],
-    maxPoints: levelsToPoints["8.1"],
+    maxPoints: levelsToPoints["8.3"],
   },
 ];
